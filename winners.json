@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-29",
-  "weekday": "Wed",
+  "date": "2026-07-30",
+  "weekday": "Thu",
   "prize": "1,000 CREDITS",
   "winners": [
-    "Nita B.",
     "Delia V.",
-    "Malia M.",
-    "Kelly K.",
-    "Luz B."
+    "David V.",
+    "A N.",
+    "Sandra W.",
+    "Douglas M."
   ],
   "n_winners": 5,
-  "pool_sha256": null,
-  "method": "python secrets.SystemRandom uniform sample (run manually, pre-automation)",
-  "published_at": "2026-07-30T01:12:17Z",
+  "pool_sha256": "9ab3e9f38e6554a362ea347d7a10c5b76d96d1d1925535fb912327518bd77491",
+  "method": "python secrets.SystemRandom uniform sample",
+  "published_at": "2026-07-30T18:21:25Z",
   "note": "Names shown first name + last initial only. Emails are never published."
 }

@@ -10,9 +10,8 @@
     "Luz B."
   ],
   "n_winners": 5,
-  "n_eligible": 39,
   "pool_sha256": null,
   "method": "python secrets.SystemRandom uniform sample (run manually, pre-automation)",
-  "published_at": "2026-07-30T00:08:11Z",
+  "published_at": "2026-07-30T01:12:17Z",
   "note": "Names shown first name + last initial only. Emails are never published."
 }

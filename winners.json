@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
   "weekday": "Fri",
-  "prize": "500 CREDITS",
+  "prize": "500 \u00d7 10",
   "event": "Friday Fortune",
   "winners": [
     "Javier A.",
@@ -19,5 +19,7 @@
   "pool_sha256": "def3d15549617dc640e25817583c1a0fc6af55172c1754c6fcf7d725da04c9bd",
   "method": "python secrets.SystemRandom uniform sample",
   "published_at": "2026-08-01T00:00:19Z",
-  "note": "Names shown first name + last initial only. Emails are never published."
+  "note": "Names shown first name + last initial only. Emails are never published.",
+  "prize_each": 500,
+  "total_credits": 5000
 }

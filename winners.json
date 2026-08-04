@@ -1,25 +1,17 @@
 {
-  "date": "2026-07-31",
-  "weekday": "Fri",
-  "prize": "500 \u00d7 10",
-  "event": "Friday Fortune",
+  "date": "2026-08-04",
+  "weekday": "Tue",
+  "prize": "1,000 CREDITS",
   "winners": [
-    "Javier A.",
-    "Danielle G.",
-    "Alberto J.",
+    "Beverly A.",
+    "Anthony F.",
     "Frenchie J.",
-    "Daniel S.",
     "Komal F.",
-    "Latyuana J.",
-    "Malia M.",
-    "Douglas M.",
-    "Quoc N."
+    "Angelita M."
   ],
-  "n_winners": 10,
-  "pool_sha256": "def3d15549617dc640e25817583c1a0fc6af55172c1754c6fcf7d725da04c9bd",
+  "n_winners": 5,
+  "pool_sha256": "20bda2d38920e11fc81bdb9d7e93aa47e3f8acf336742af01aeb4bc408248c71",
   "method": "python secrets.SystemRandom uniform sample",
-  "published_at": "2026-08-01T00:00:19Z",
-  "note": "Names shown first name + last initial only. Emails are never published.",
-  "prize_each": 500,
-  "total_credits": 5000
+  "published_at": "2026-08-04T22:41:53Z",
+  "note": "Names shown first name + last initial only. Emails are never published."
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-04",
-  "weekday": "Tue",
+  "date": "2026-08-05",
+  "weekday": "Wed",
   "prize": "1,000 CREDITS",
   "winners": [
-    "Beverly A.",
     "Anthony F.",
-    "Frenchie J.",
-    "Komal F.",
-    "Angelita M."
+    "Ciara R.",
+    "David V.",
+    "Jocelyn G.",
+    "Guillermo S."
   ],
   "n_winners": 5,
-  "pool_sha256": "20bda2d38920e11fc81bdb9d7e93aa47e3f8acf336742af01aeb4bc408248c71",
+  "pool_sha256": "1aae4cbdb6ee28dca86f03806f59e2be21a72b48d7e309bf788d5dad7eade087",
   "method": "python secrets.SystemRandom uniform sample",
-  "published_at": "2026-08-04T22:41:53Z",
+  "published_at": "2026-08-06T00:51:30Z",
   "note": "Names shown first name + last initial only. Emails are never published."
 }

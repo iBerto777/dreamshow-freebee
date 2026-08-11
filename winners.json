@@ -12,6 +12,6 @@
   "n_winners": 5,
   "pool_sha256": "1aae4cbdb6ee28dca86f03806f59e2be21a72b48d7e309bf788d5dad7eade087",
   "method": "python secrets.SystemRandom uniform sample",
-  "published_at": "2026-08-07T09:02:33Z",
+  "published_at": "2026-08-11T17:46:56Z",
   "note": "Names shown first name + last initial only. Emails are never published."
 }

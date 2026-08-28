@@ -3,15 +3,15 @@
   "weekday": "Thu",
   "prize": "1,000 CREDITS",
   "winners": [
-    "Aida P.",
-    "Sandra W.",
-    "Marcellus M.",
-    "Sandee C.",
-    "Sooner K."
+    "Beverly A.",
+    "Byron S.",
+    "Edna R.",
+    "Rikki L.",
+    "Samuel B."
   ],
   "n_winners": 5,
   "pool_sha256": "391651ac25619986dae818b13477346f6600e376fc9ea17777ed43d36d7d392d",
   "method": "python secrets.SystemRandom weighted sample without replacement",
-  "published_at": "2026-08-27T21:49:22Z",
+  "published_at": "2026-08-28T00:08:10Z",
   "note": "Names shown first name + last initial only. Emails are never published."
 }

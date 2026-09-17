@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-16",
-  "weekday": "Wed",
+  "date": "2026-09-17",
+  "weekday": "Thu",
   "prize": "1,000 CREDITS",
   "winners": [
-    "Alberto J.",
-    "Douglas M.",
-    "David M.",
-    "Sajia G.",
-    "Serena E."
+    "Angela C.",
+    "Anthony F.",
+    "Gina K.",
+    "Malia M.",
+    "Beau A."
   ],
   "n_winners": 5,
-  "pool_sha256": "62f03eb9d30fdde768da8da6d184c94e3a85df66a532378227ae448864a873a4",
+  "pool_sha256": "12b1c6f0db9a7a96d8b36d3c7a6ebd9586d57fc71767973b9ccb0266eae1772a",
   "method": "python secrets.SystemRandom weighted sample without replacement",
-  "published_at": "2026-09-17T09:40:49Z",
+  "published_at": "2026-09-17T18:39:34Z",
   "note": "Names shown first name + last initial only. Emails are never published."
 }

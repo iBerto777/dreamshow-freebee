@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-27",
-  "weekday": "Tue",
+  "date": "2026-10-28",
+  "weekday": "Wed",
   "prize": "1,000 CREDITS",
   "winners": [
-    "Mike B.",
-    "Hana K.",
-    "Angelita M.",
-    "Nick S.",
-    "Samuel M."
+    "Sooner K.",
+    "Janice H.",
+    "Lorie G.",
+    "Nene D.",
+    "Joann W."
   ],
   "n_winners": 5,
-  "pool_sha256": "6574f66d028b42063d6b0d7c921fba778da780d3816209ca2da04b1e981f6de4",
-  "method": "python secrets.SystemRandom uniform sample",
-  "published_at": "2026-10-28T11:06:46Z",
+  "pool_sha256": "9c8457ce9db8a3fa063a3f3728c04317e7b05f4d53a8e627b28d23fb49024aff",
+  "method": "python secrets.SystemRandom weighted sample without replacement",
+  "published_at": "2026-10-28T19:57:01Z",
   "note": "Names shown first name + last initial only. Emails are never published."
 }

@@ -1,0 +1,35 @@
+{
+  "id": "sunday-mp1000",
+  "from": "2026-11-18",
+  "until": "2026-12-14",
+  "show_s": 15,
+  "every_s": 60,
+  "bg": "#ffd400",
+  "fg": "#000000",
+  "font": "Helvetica,\"Helvetica Neue\",Arial,sans-serif",
+  "bees": true,
+  "lines": [
+    {
+      "text": "Sunday",
+      "pos": "top",
+      "size": 6.75,
+      "flash": true
+    },
+    {
+      "text": "Match Play",
+      "pos": "mid",
+      "size": 12
+    },
+    {
+      "text": "1000cr",
+      "pos": "mid",
+      "size": 22
+    },
+    {
+      "text": "ask at the counter",
+      "pos": "bottom",
+      "size": 6.75
+    }
+  ],
+  "note": "FreeBee promo panel. Edit this file, the screen follows within 5 minutes. Remove the file or let `until` pass and the panel disappears. Credits are credits, never a currency symbol."
+}

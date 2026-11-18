@@ -13,7 +13,7 @@
       "text": "Sunday",
       "pos": "top",
       "size": 6.75,
-      "flash": true
+      "grow": true
     },
     {
       "text": "Match Play",
@@ -31,5 +31,7 @@
       "size": 6.75
     }
   ],
-  "note": "FreeBee promo panel. Edit this file, the screen follows within 5 minutes. Remove the file or let `until` pass and the panel disappears. Credits are credits, never a currency symbol."
+  "note": "FreeBee promo panel. Edit this file, the screen follows within 5 minutes. Remove the file or let `until` pass and the panel disappears. Credits are credits, never a currency symbol.",
+  "pad_top": 12,
+  "pad_bottom": 8
 }
